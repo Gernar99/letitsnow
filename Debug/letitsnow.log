@@ -1,0 +1,4 @@
+﻿  letitsnow.c
+C:\Users\2\Desktop\letitsnow\letitsnow.c(118,20): warning C4047: функция: "const char *const " отличается по уровням косвенного обращения от "char [29][120]"
+C:\Users\2\Desktop\letitsnow\letitsnow.c(118,20): warning C4024: printf: различные типы для формального и фактического параметров 1
+  letitsnow.vcxproj -> C:\Users\2\Desktop\letitsnow\Debug\letitsnow.exe
